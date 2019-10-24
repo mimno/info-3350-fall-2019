@@ -1,141 +1,152 @@
-NetID,Checker NetID,Filename,Title,Author,Year,Genre,Form,Country of Origin,Length (words),Original Language
-jb2338,dc784,machen_the_house_of_souls_pg25016.txt,The House of Souls,Arthur Machen,1906,Horror; Fantasy,Novel,United Kingdom,83615,English
-kmw259,bc596,austen_emma_pg158.txt,Emma,"Austen, Jane",1815,Romance,Novel,United Kingdom,160993,English
-wpt25,kl782,austen_pride_and_prejudice_pg1342.txt,Pride and Prejudice,"Austen, Jane",1813,Fiction; Love Story; Romanitc,Novel,United Kingdom,,English
-hd292,emw246,vathek_an_arabian_tale_pg42401.txt,Vathek,"Beckford, William",1849,Gothic; Horror,Novel,United Kingdom,35950,English
-jl2578,bg368,bierce_an_occurrence_at_owl_creek_bridge_pg3746,An Occurrence at Owl Creek Bridge,"Bierce, Ambrose",1890,Horror,Short Story,United States,3746,English
-rk493,,blackwood_the_damned_pg11074.txt,The Damned,"Blackwood, Algernon",1914,Horror; Mystery,Novella,United Kingdom,31409,English
-mad298,srm276,blackwood_the_willows_pg11438.txt,The Willows,"Blackwood, Algernon",1907,Horror,Novella,United Kingdom,19556,English
-lam364,,blackwood_the_wendigo_pg10897.txt,The Wendigo,"Blackwood, Algernon ",1910,Horror,Novella,United Kingdom,,English
-ys778,,Chambers_the_king_in_yellow_pg8492.txt,The King in Yellow,"Chambers, Robert ",1895,Horror,Play,United States,71757,English
-kmw259,bc596,conrad_heart_of_darkness_pg219.txt,Heart of Darkness,"Conrad, Joseph",1899,Romance,Novella,United Kingdom,40020,English
-emw248,,dickens_a_christmas_carol_pg19337.txt,A Christmas Carol,"Dickens, Charles",1843,Ghost,Novel,United Kingdom,28610,English
-ahy7,,dickens_great_expectations_pg1400.txt,Great Expectations,"Dickens, Charles",1861,Fiction,Novel,United Kingdom,183349,English
-emw248,,dickens_oliver_twist_pg730.txt,Oliver Twist,"Dickens, Charles",1838,Social,Novel,United Kingdom,155675,English
-kl824,,doyle_a_study_in_scarlet_pg244.txt,A Study in Scarlet,"Doyle, Arthur Conan",1887,Fiction,Novel,United Kingdom,43749,English
-dc784,jb2338,doyle_tales_of_terror_and_mystery_pg537.txt,Tales of Terror and Mystery,"Doyle, Arthur Conan",1922,Horror; Mystery,Short Story Collection,United Kingdom,75040,English
-kl824,,doyle_the_adventure_of_sherlock_holmes_pg1661.txt,The Adventure Of Sherlock Holmes,"Doyle, Arthur Conan",1892,Fiction,Novel,United Kingdom,107412,English
-sah346,,doyle_hound_of_the_baskervilles_pg2852,The Hound of The Baskervilles,"Doyle, Arthur Conan",1902,Mystery,Novel,United Kingdom,118282,English
-jb2338,dc784,poe_the_masque_of_the_red_death_pg1064.txt,The Masque of Red Death,Edgar Allan Poe,1842,Gothic; Horror,Short Story,United States,2417,English
-hn248,,,The Poor Clare,Elizabeth Gaskell,1856,Gothic; Horror,Short Story,United Kingdom,,English
-cdc222,spa42,emily_bronte_wuthering_heights_pg768.txt,Wuthering Heights,Emily Brönte,1847,Gothic; Horror,Novel,United Kingdom,118899,English
-cdc222,nkm49,stevenson_jekyll_hyde_pg42.txt,The Strange Case Of Dr. Jekyll And Mr. Hyde,"Stevenson, Robert Louis ",1886,Gothic; Horror,Novel,United Kingdom,25568,English
-wh375,im324,fitzgerald_the_beautiful_and_the_damned_pg9830.txt,The Beautiful and the Damned,"Fitzgerald, Francis Scott",1922,Fiction,Novel,United States,80549,English
-wh375,im324,fitzgerald_this_side_of_paradise_pg805.txt,This Side of Paradise,"Fitzgerald, Francis Scott",1920,Fiction,Novel,United States,123526,English
-xm53,,hornung_dead_men_tell_no_tales_pg1703.txt,Dead Men Tell No Tales,"Hornung, Ernest",1899,Crime Fiction,Novel,United States,56445,English
-xm53,,beam_murder_in the_gunroom_pg17866.txt,Murder in the Gunroom,"Beam, Piper",1953,Crime Fiction,Novel,United States,67110,English
-rk493,,hugo_notre_dame_de_paris_pg2610.txt,Notre Dame de Paris,"Hugo, Victor",1831,Gothic,Novel,France,180932,French
-evf23,,gilman_the_yellow_wallpaper_pg1952.txt,The Yellow Wallpaper,"Gilman, Charlotte Perkins ",1892,Gothic; Horror,Short Story,United States,6078,English
-alj74,rsk227,hodgson_the_night_land_pg10662.txt,The Night Land,"Hodgson, William",1912,Horror; Fantasy,Novel,United Kingdom,197163,English
-hcm58,az283,homer_the_illiad_pg6130.txt,The Illiad,Homer,1688,War,Epic,,,Greek
-vlz2,,walpole_the_castle_of_otranto_pg696.txt,The Castle of Otranto,Horace Walpole,1764,Horror; Fiction; Gothic,Novel,United Kingdom,34579,English
-jhc287,,irving_the_legend_of_sleepy_hollow_pg41,The Legend of Sleepy Hollow,"Irving, Washington",1820,Horror,Short story,United States,12206,English
-mck85,,james_the_turn_of_the_screw_pg209.txt,The Turn of the Screw,"James, Henry",1898,Horror,Novella,United States,45859,English
-jw975,,james_ghost_stories_of_an_antiquary_8486.txt,Ghost Story of an Antiquary,"James, M.R.",1904,Horror,Short Story Collection,United Kingdom,,English
-mp832,jwz23,james_a_thin_ghost_and_others_pg20387.txt,A Thin Ghost and Others,"James, Montague Rhodes",1919,Horror,Short Story Collection,United Kingdom,31087,English
-srm276,mac487,kafka_metamorphosis_ pg5200.txt,Metamorphosis,"Kafka, Franz",1915,Fantasy; Absurdist,Novella,Germany,22011,German
-cjz36,,kafka_the_trial.txt,The Trial,"Kafka, Franz ",1925,Horror; Fiction,Novel,Germany,84203,German
-tbn6,,lovecraft_the_shunned_house_pg31469,The Shunned House,"Lovecraft, Howard",1937,Horror; Fiction,Novel,United States,,English
-srm276,mac487,poe_the_works_of_edgar_allan_poe_volume_1_pg2147.txt,The Works of Edgar Allan Poe: Volume 1,"Poe, Edgar Allan",1903,Gothic; Horror,Short Story Collection,United States,90496,English
-vlz2,,stevenson_the_waif_woman_pg19750.txt,The Waif Woman,Robert Louis Stevenson,1916,Horror,Short Story,England,6895,English
-jwz23,mp832,rohmer_the_insidious_dr_fu_manchu.txt,The Insidious Dr. Fu Manchu,"Rohmer, Sax",1913,Mystery,Short Story,United Kingdom,72774,English
-az258,wpt25,stoker_the_lady_of_the_shroud_pg3095.txt,The Lady of the Shroud,S.M. Tenneshaw,2007,Horror,Novel,United Kingdom,127896,English
-ahy7,cjz36,shelley_frankenstein_pg84.txt,Frankenstein,"Shelley, Mary Wollstonecraft",1818,Gothic; Horror,Novel,United Kingdom,90625,English
-az283,hcm58,shelley_frankenstein_or_the_modern_prometheus.txt,"Frankenstein; Or, The Modern Prometheus","Shelley, Mary Wollstonecraft",1818,Horror; Science Fiction,Novel,United Kingdom,75156,English
-sm2344,mas764,sinclair_the_jungle_pg140.txt,The Jungle,"Sinclair, Upton",1906,Political fiction,Novel,United States,,English
-evf23,,stevenson_the_strange_case_of_dr_jekyll_and_mr_hyde_pg43.txt,The Strange Case Of Dr. Jekyll And Mr. Hyde,"Stevenson, Robert Louis ",1886,Gothic; Horror,Novel,United Kingdom,25568,English
-sm2344,mas764,stevenson_treasure_island_pg120.txt,Treasure Island,"Stevenson, Roberts",1883,Adventure; Young adult literature,Novel,United Kingdom,,English
-cjz36,,stocker_the_jewel_of_seven_stars_pg3781.txt,The Jewel of Seven Stars,"Stocker, Bram",,Horror; Fiction,Novel,United Kingdom,90049,English
-jl2578,,stoker_dracula_pg160815,Dracula,"Stoker, Bram",1897,Horror; Gothic,Novel,United Kingdom,164101,English
-jw975,,stoker_dracula's_guest_pg10150.txt,Dracula's Guest,"Stoker, Bram",1914,Horror,Short Story,United Kingdom,4843,English
-jwz23,mp832,viereck_the_house_of_the_vampire.txt,The House of the Vampire,"Viereck, George Sylvester",1907,Fiction,Novel,United States,160815,English
-lam364,,wells_the_time_machine_pg35.txt,The Time Machine,"Wells, Herbert George",1895,Science Fiction,Novella,United Kingdom,,English
-mp832,jwz23,stoker_the_lair_of_the_white_worm_pg1188.txt,The Lair of the White Worm,"Wells, Herbert George",1911,Horror,Novel,,55221,English
-az258,wpt25,wells_the_war_of_the_worlds_pg36.txt,The War of the Worlds,"Wells, Herbert Goerge",1898,Science Fiction,Novel,United Kingdom,,English
-hd292,emw246,intentions_pg887.txt,Intentions,"Wilde, Oscar",1891,Drama,Novel,United Kingdom,58427,English
-alj74,rsk227,jacobs_the_monkeys_paw_pg12122.txt,The Monkey's Paw,"Jacobs, W. W.",1902,Horror,Short Story,United Kingdom,3950,English
-hn248,,,Carmilla,Sheridan Le Fanu,1872,Gothic; Horror,Novella,United Kingdom,,English
-dc784,tbn6,howard_the_dunwich_horror_pg50133.txt,The Dunwich Horror,,1929,Horror,Short Story,United States,17316,English
-dzy4,,wilde_the_picture_of_dorian_gray_pg174,The Picture of Dorian Gray,"Wilde, Oscar",1890,Philosophical Fiction; Decadent Literature,Novel,United Kingdom,78926,English
-dzy4,,wells_the_invisible_man_pg5320.txt,The Invisible Man,"Wells, H.G.",1897,Horror; Science Fiction,Novel,United Kingdom,48339,English
-bg368,,poe_the_cask_of_amontillado_pg1063.txt,The Cask of Amontillado,"Poe, Edgar Allan",1846,Horror,short story,United States,2340,English
-bg368,,blanchard_a_sweet_little_maid_pg19025.txt,A Sweet Little Maid,"Blanchard, Amy Ella",1899,juvenile fiction,novel,United States,37531,English
-zw282,,o'donnell_scottish_ghost_stories_pg20034.txt,Scottish Ghost Stories ,"O'Donnell, Elliott ",2006,Horror ,,,,English
-zw282,,Fletcher_the_middle_of_things_pg9902.txt,The Middle of Things,"Fletcher, J. S.",2006,Fiction,novel ,United States,,English
-akn35,,baum_glinda_of_oz_pg961,Glinda of Oz,"Baum, Frank",1920,"Children's Literature, Fantasy",novel,United States,,English
-akn35,,machen_the_great_god_pan_pg389,The Great God Pan,"Machen, Arthur",1894,Horror,novel,United Kingdom,,English
-mas764,sm2344,verne_around_the_world_in_80_days_pg103.txt,Around the World in Eighty Days,"Verne, Jules",1873,Adventure,novel,France,67570,French
-mad298,srm276,onions_widdershins_pg14168.txt,Widdershins,"Onions, Oliver",1911,Horror,Short Story Collection,United Kingdom,78324,English
-yz689,bg368,collins_the_moonstone_pg155.txt,The Moonstone,"Collins, Wilkie",1868,Mystery; Fiction,novel,United Kingdom,194768,English
-yz689,,piper_murder_in_the_gunroom_pg17866.txt,Murder in the Gunroom,"Piper, H. Beam",1953,Detective; Fiction,novel,United States,67116,English
+Creator NetID,Checker NetID,Filename,Title,Author,Year,Genre,Form,Country of Origin,Length (words),Original Language,"Point of View (first, third, drama, play, uncertain)"
+jb2338,dc784,machen_the_house_of_souls_pg25016.txt,The House of Souls,"Machen, Arthur",1906,Horror; Fantasy,Novel,United Kingdom,83615,English,3
+kmw259,bc596,austen_emma_pg158.txt,Emma,"Austen, Jane",1815,Romance,Novel,United Kingdom,160993,English,3
+dm655,,austen_persuasion_pg105.txt,Persuasion,"Austen, Jane",1818,Romance,Novel,United Kingdom,83278,English,3
+wpt25,kl782,austen_pride_and_prejudice_pg1342.txt,Pride and Prejudice,"Austen, Jane",1813,Fiction; Love Story; Romanitc,Novel,United Kingdom,,English,3
+hd292,emw246,vathek_an_arabian_tale_pg42401.txt,Vathek,"Beckford, William",1849,Gothic; Horror,Novel,United Kingdom,35950,English,
+jl2578,bg368,bierce_an_occurrence_at_owl_creek_bridge_pg3746.txt,An Occurrence at Owl Creek Bridge,"Bierce, Ambrose",1890,Horror,Short Story,United States,3746,English,
+bf266,,bierce_present_at_a_hanging_and_other_ghost_stories.txt,Present at a Hanging and Other Ghost Stories,"Bierce, Ambrose",1913,Horror,Short Story Collection,United States,17360,English,3
+bf266,,bierce_the_parenticide_club.txt,The Parenticide Club,"Bierce, Ambrose",1911,Horror,Short Story,United States,7573,English,1
+rk493,emw248,blackwood_the_damned_pg11074.txt,The Damned,"Blackwood, Algernon",1914,Horror; Mystery,Novella,United Kingdom,31409,English,1
+mad298,srm276,blackwood_the_willows_pg11438.txt,The Willows,"Blackwood, Algernon",1907,Horror,Novella,United Kingdom,19556,English,1
+lam364,,blackwood_the_wendigo_pg10897.txt,The Wendigo,"Blackwood, Algernon ",1910,Horror,Novella,United Kingdom,,English,3
+ys778,ye35,chambers_the_king_in_yellow_pg8492.txt,The King in Yellow,"Chambers, Robert ",1895,Horror,Play,United States,71757,English,3
+kmw259,bc596,conrad_heart_of_darkness_pg219.txt,Heart of Darkness,"Conrad, Joseph",1899,Romance,Novella,United Kingdom,40020,English,1
+emw248,ys778,dickens_a_christmas_carol_pg19337.txt,A Christmas Carol,"Dickens, Charles",1843,Ghost,Novel,United Kingdom,28610,English,3
+ahy7,lam364,dickens_great_expectations_pg1400.txt,Great Expectations,"Dickens, Charles",1861,Fiction,Novel,United Kingdom,183349,English,1
+kjf63,,dickens_a_tale_of_two_cities_p98.txt,A Tale of Two Cities,"Dickens, Charles",1859,Historial Fiction,Novel,United Kingdom,,English,3
+emw248,gar224,dickens_oliver_twist_pg730.txt,Oliver Twist,"Dickens, Charles",1838,Social,Novel,United Kingdom,155675,English,3
+kl824,ahy7,doyle_a_study_in_scarlet_pg244.txt,A Study in Scarlet,"Doyle, Arthur Conan",1887,Fiction,Novel,United Kingdom,43749,English,1
+dc784,jb2338,doyle_tales_of_terror_and_mystery_pg537.txt,Tales of Terror and Mystery,"Doyle, Arthur Conan",1922,Horror; Mystery,Short Story Collection,United Kingdom,75040,English,1
+kl824,xm53,doyle_the_adventure_of_sherlock_holmes_pg1661.txt,The Adventure Of Sherlock Holmes,"Doyle, Arthur Conan",1892,Fiction,Novel,United Kingdom,107412,English,1
+sah346,mck85,doyle_hound_of_the_baskervilles_pg2852.txt,The Hound of The Baskervilles,"Doyle, Arthur Conan",1902,Mystery,Novel,United Kingdom,118282,English,3
+dm655,,dunsany_book_of_wonder_pg7477.txt,The Book of Wonder,"Dunsany, Lord",1912,Horror,Short Story Collection,Ireland,22759,English,3
+jb2338,dc784,poe_the_masque_of_the_red_death_pg1064.txt,The Masque of Red Death,"Poe, Edgar Allan",1842,Gothic; Horror,Short Story,United States,2417,English,3
+hn248,,,The Poor Clare,"Gaskell, Elizabeth",1856,Gothic; Horror,Short Story,United Kingdom,,English,
+cdc222,spa42,bronte_wuthering_heights_pg768.txt,Wuthering Heights,"Brönte, Emily",1847,Gothic; Horror,Novel,United Kingdom,118899,English,3
+cdc222,nkm49,stevenson_the_strange_case_of_dr_jekyll_and_mr_hyde_pg42.txt,The Strange Case Of Dr. Jekyll And Mr. Hyde,"Stevenson, Robert Louis ",1886,Gothic; Horror,Novel,United Kingdom,25568,English,3
+wh375,im324,fitzgerald_the_beautiful_and_the_damned_pg9830.txt,The Beautiful and the Damned,"Fitzgerald, Francis Scott",1922,Fiction,Novel,United States,80549,English,
+wh375,im324,fitzgerald_this_side_of_paradise_pg805.txt,This Side of Paradise,"Fitzgerald, Francis Scott",1920,Fiction,Novel,United States,123526,English,
+xm53,,hornung_dead_men_tell_no_tales_pg1703.txt,Dead Men Tell No Tales,"Hornung, Ernest",1899,Crime; Fiction,Novel,United States,56445,English,1
+xm53,,beam_murder_in the_gunroom_pg17866.txt,Murder in the Gunroom,"Piper, Beam",1953,Crime; Fiction,Novel,United States,67110,English,3
+rk493,lm638,hugo_notre_dame_de_paris_pg2610.txt,Notre Dame de Paris,"Hugo, Victor",1831,Gothic,Novel,France,180932,French,3
+evf23,,gilman_the_yellow_wallpaper_pg1952.txt,The Yellow Wallpaper,"Gilman, Charlotte Perkins ",1892,Gothic; Horror,Short Story,United States,6078,English,1
+alj74,rsk227,hodgson_the_night_land_pg10662.txt,The Night Land,"Hodgson, William",1912,Horror; Fantasy,Novel,United Kingdom,197163,English,3
+hcm58,az283,homer_the_illiad_pg6130.txt,The Illiad,Homer,1688,War,Epic,,,Greek,3
+vlz2,sah346,walpole_the_castle_of_otranto_pg696.txt,The Castle of Otranto,"Walpole, Horace",1764,Horror; Fiction; Gothic,Novel,United Kingdom,34579,English,3
+jhc287,akn35,irving_the_legend_of_sleepy_hollow_pg41.txt,The Legend of Sleepy Hollow,"Irving, Washington",1820,Horror,Short Story,United States,12206,English,1
+mck85,vlz2,james_the_turn_of_the_screw_pg209.txt,The Turn of the Screw,"James, Henry",1898,Horror,Novella,United States,42211,English,
+jw975,,"james_ghost_stories_of_an_antiquary_pg8486.txt
+",Ghost Story of an Antiquary,"James, M.R.",1904,Horror,Short Story Collection,United Kingdom,,English,
+mp832,jwz23,james_a_thin_ghost_and_others_pg20387.txt,A Thin Ghost and Others,"James, Montague Rhodes",1919,Horror,Short Story Collection,United Kingdom,31087,English,1
+srm276,mac487,kafka_metamorphosis_ pg5200.txt,Metamorphosis,"Kafka, Franz",1915,Fantasy; Absurdist,Novella,Germany,22011,German,3
+cjz36,,kafka_the_trial_pg7849.txt,The Trial,"Kafka, Franz ",1925,Horror; Fiction,Novel,Germany,84203,German,3
+tbn6,,lovecraft_the_shunned_house_pg31469,The Shunned House,"Lovecraft, Howard",1937,Horror; Fiction,Novel,United States,,English,
+srm276,mac487,poe_the_works_of_edgar_allan_poe_volume_1_pg2147.txt,The Works of Edgar Allan Poe: Volume 1,"Poe, Edgar Allan",1903,Gothic; Horror,Short Story Collection,United States,90496,English,uncertain
+vlz2,sah346,stevenson_the_waif_woman_pg19750.txt,The Waif Woman,"Stevenson, Robert Louis",1916,Horror,Short Story,United Kingdom,6895,English,3
+jwz23,mp832,rohmer_the_insidious_dr_fu_manchu.txt,The Insidious Dr. Fu Manchu,"Rohmer, Sax",1913,Mystery,Short Story,United Kingdom,72774,English,
+az258,wpt25,stoker_the_lady_of_the_shroud_pg3095.txt,The Lady of the Shroud,"Stoker, Bram",2007,Horror,Novel,United Kingdom,127896,English,1
+ahy7,,shelley_frankenstein_pg84.txt,Frankenstein,"Shelley, Mary",1818,Gothic; Horror,Novel,United Kingdom,90625,English,1
+az283,hcm58,jane_eyre.txt,Jane Eyre: An Autobiography,"Bronte, Charlotte",1847,Fiction,Novel,United Kingdom,185826,English,1
+sm2344,mas764,sinclair_the_jungle_pg140.txt,The Jungle,"Sinclair, Upton",1906,Political fiction,Novel,United States,,English,3
+evf23,,stevenson_the_strange_case_of_dr_jekyll_and_mr_hyde_pg43.txt,The Strange Case Of Dr. Jekyll And Mr. Hyde,"Stevenson, Robert Louis ",1886,Gothic; Horror,Novel,United Kingdom,25568,English,3
+sm2344,mas764,stevenson_treasure_island_pg120.txt,Treasure Island,"Stevenson, Roberts",1883,Adventure; Young adult literature,Novel,United Kingdom,,English,1
+cjz36,ahy7,stocker_the_jewel_of_seven_stars_pg3781.txt,The Jewel of Seven Stars,"Stocker, Bram",1903,Horror; Fiction,Novel,United Kingdom,90049,English,1
+jl2578,,stoker_dracula_pg160815,Dracula,"Stoker, Bram",1897,Horror; Gothic,Novel,United Kingdom,164101,English,
+jw975,,stoker_dracula's_guest_pg10150.txt,Dracula's Guest,"Stoker, Bram",1914,Horror,Short Story,United Kingdom,4843,English,
+jwz23,mp832,viereck_the_house_of_the_vampire.txt,The House of the Vampire,"Viereck, George Sylvester",1907,Fiction,Novel,United States,160815,English,
+lam364,,wells_the_time_machine_pg35.txt,The Time Machine,"Wells, Herbert George",1895,Science Fiction,Novella,United Kingdom,,English,3
+mp832,jwz23,stoker_the_lair_of_the_white_worm_pg1188.txt,The Lair of the White Worm,"Wells, Herbert George",1911,Horror,Novel,United Kingdom,55221,English,3
+az258,wpt25,wells_the_war_of_the_worlds_pg36.txt,The War of the Worlds,"Wells, Herbert Goerge",1898,Science Fiction,Novel,United Kingdom,60148,English,1
+hd292,emw246,intentions_pg887.txt,Intentions,"Wilde, Oscar",1891,Drama,Novel,United Kingdom,58427,English,
+alj74,rsk227,jacobs_the_monkeys_paw_pg12122.txt,The Monkey's Paw,"Jacobs, W. W.",1902,Horror,Short Story,United Kingdom,3950,English,3
+hn248,,,Carmilla,"Le Fanu, Sheridan",1872,Gothic; Horror,Novella,United Kingdom,,English,
+dc784,tbn6,howard_the_dunwich_horror_pg50133.txt,The Dunwich Horror,"Lovecraft, Howard",1929,Horror,Short Story,United States,17316,English,3
+dzy4,,wilde_the_picture_of_dorian_gray_pg174,The Picture of Dorian Gray,"Wilde, Oscar",1890,Philosophical Fiction; Decadent Literature,Novel,United Kingdom,78926,English,
+dzy4,ye35,wells_the_invisible_man_pg5320.txt,The Invisible Man,"Wells, H.G.",1897,Horror; Science Fiction,Novel,United Kingdom,48339,English,
+bg368,zw282,poe_the_cask_of_amontillado_pg1063.txt,The Cask of Amontillado,"Poe, Edgar Allan",1846,Horror,Short Story,United States,2340,English,1
+bg368,zw282,blanchard_a_sweet_little_maid_pg19025.txt,A Sweet Little Maid,"Blanchard, Amy Ella",1899,juvenile fiction,Novel,United States,37531,English,3
+zw282,kl824,o'donnell_scottish_ghost_stories_pg20034.txt,Scottish Ghost Stories ,"O'Donnell, Elliott ",2006,Horror ,Short Story Collection,United Kingdom,,English,3
+zw282,kl824,Fletcher_the_middle_of_things_pg9902.txt,The Middle of Things,"Fletcher, J. S.",2006,Fiction,Novel,United States,74333,English,
+akn35,jhc287,baum_glinda_of_oz_pg961.txt,Glinda of Oz,"Baum, Frank",1920,Children's Literature; Fantasy,Novel,United States,39378,English,3
+akn35,jhc287,machen_the_great_god_pan_pg389.txt,The Great God Pan,"Machen, Arthur",1894,Horror,Novel,United Kingdom,21630,English,1
+mas764,sm2344,verne_around_the_world_in_80_days_pg103.txt,Around the World in Eighty Days,"Verne, Jules",1873,Adventure,Novel,France,67570,French,3
+mad298,srm276,onions_widdershins_pg14168.txt,Widdershins,"Onions, Oliver",1911,Horror,Short Story Collection,United Kingdom,78324,English,uncertain
+yz689,bg368,collins_the_moonstone_pg155.txt,The Moonstone,"Collins, Wilkie",1868,Mystery; Fiction,Novel,United Kingdom,194768,English,1
+yz689,,piper_murder_in_the_gunroom_pg17866.txt,Murder in the Gunroom,"Piper, H. Beam",1953,Detective; Fiction,Novel,United States,67116,English,3
 xz494,kmw259,twain_adventures_of_huckleberry_finn_pg76.txt,Adventures of Huckleberry Finn,"Twain, Mark",1884,"Humorous stories
-",x,United Kingdom,117263,English
-mck85,,twain_adventures_of_tom_sawyer_pg74.txt,Adventures of Tom Sawyer,"Twain, Mark",1876,Adventure; Satire,Novel,United States,,English
-ag2228,ds869,hodgson_the_night_land_pg10662.txt,The Night Land,"Hodgson, William",1912,Science Fiction,novel,United Kingdom,197163,English
-ag2228,ds869,hodgson_the_house_on_the_borderland_pg10002.txt,The House on the Borderland,"Hodgson, William",1908,Science Fiction,novel,United Kingdom,50872,English
-ds869,ag2228,poe_the_pit_and_the_pendulum_pg2148.txt,The Pit and the Pendulum,"Poe, Edgar Allan",1842,Horror Fiction,short story,United States,,English
-ds869,ag2228,poe_fall_of_the_house_of_usher_pg2148.txt,The Fall of the House of Usher,"Poe, Edgar Allan",1839,Horror Fiction; Gothic Fiction,novel,United States,7060,English
-pd353,az258,poe_the_fall_of_the_house_of_usher_pg2148.txt,The Tell-Tale Heart,"Poe, Edgar Allan",1843,Horror; Gothic Fiction,short story,United States,2145,English
-pd353,az258,dickens_a_christmas_carol_pg24022.txt,A Christmas Carol,"Dickens, Charles",1915,Fairy Tale; Victorian Literature,novel,United Kingdom,28528,English
-im324,wh375,baum_the_wonderful_wizard_of_oz_pg55.txt,The Wonderful Wizard of Oz,"Baum, Lyman Baum",1900,Fantasy,novel,United States,39463,English
-im324,wh375,hewlett_the_forest_lovers_pg8934.txt,The Forest Lovers,"Hewlett, Maurice",1898,Historical Fiction,novel,United Kingdom,97617,English
-ye35,,,,,,,,,,
-ye35,,hawthone_the_scarlet_letter_pg25344.txt,The Scarlet Letter,"Hawthorne, Nathaniel",1850,Romanticism; Fiction,novel,United States,51500,English
-sy367,ms2628,,Sense and Sensibility,Jane Austen,1811,Romantic Fiction,novel,United Kingdom,119394,English
-emw246,hd292,a_damsel_in_distress_pg2233.txt,A Damsel in distress,"Wodehouse, P.G.",2000,Humor; Fiction,novel,United States,2233,English
-emw246,hd292,the_golden_source_pg18613.txt,The Golden Scorpion,"Rohmer, Sax",2006,Fantasy; Fiction,novel,United States,18613,English
-sk2347,,machen_the_great_god_pan_pg389.txt,The Great God Pan,Machen Arthur,1894,Horror,novel,United Kingdom,,English
-sk2347,,fletcher_the_markenmore_mystery_pg59818.txt,The Markenmore Mystery,Fletcher Joseph,1922,Mystery; Detective,novel,United States,77974,English
-wpt25,kl782,butler_the_odyssey_pg1727.txt,The Odyssey,Samuel Butler,1897,Epic; Poetry,epic,United Kingdom,,English
-hc667,,christie_the_murder_on_the_links_pg58866.txt,The Murder on the Links,"Christie, Agatha",1923,Mystery; Detective,novel,United Kingdom,,English
-hc667,,christie_the_secret_adversary_pg1155.txt,The Secret Adversary,"Christie, Agatha",1922,Mystery; Detective,novel,United Kingdom,,English
-mi252,,edith_the_tale_of_terror_pg14154.txt,The Tale of Terror,"birkhead, edith",1921,Horror,novel,United States,66072,English
-mac487,mad298,polidori_the_vampyre_pg6087.txt,The Vampyre,"Polidori, John William",1819,Horror,Short Story,United Kingdom,12692,English
-ms2628,sy367,swift_gullivers_travels_pg829.txt,Gulliver's Travels Into Several Remote Nations of the World,"Swift, Jonathan",1726,Fantasy Fiction,Novel,United Kingdom,,
-ms2628,sy367,hugo_les_miserables_pg135.txt,Les Miserables,"Hugo, Victor",1887,Historical Fiction,Novel,Belgium,,French
-jsp283,,prest_varney_the_vampire_pg14833.txt,"Varney the Vampire; Or, the Feast of Blood",Thomas Preskett Prest,1847,Horror,Novel,United Kingdom,,English
-jsp283,,stevenson_dr_jekyll_and_mr_hyde_pg42.txt,Only A Girl's Love,Robert Louis Stevenson,1886,Horror,Novel,United States,,English
-mac487,mad298,stoker_the_man_pg2520.txt,The Man,"Stoker, Bram",1905,Horror,Novel,Ireland,105477,English
-,,,,,,,,,,
-kl782,mi252,hearn_kwaidan_pg1210.txt,Kwaidan Stories and Studies of Strange Things,"Hearn, Lafcadio",1904,Horror; Non-Fiction,Collection,Japan,33726,English
-kl782,mi252,ibsen_gengangere_pg8121.txt,Gengangere,"Ibsen, Henrik",2014,Family Drama; Tragedy,Play,Norway,21396,Danish
-rrg73,,leblanc_the_crystal_stopper_pg1563.txt,The Crystal Stopper,Maurice LeBlanc,1912,Mystery; Detective,Novel,France,,French
-rrg73,,leblanc_the_teeth_of_the_tiger_pg13058.txt,The Teeth of the Tiger,Maurice LeBlanc,1914,Mystery; Detective,Novel,France,,French
-spa42,,piper_omnilingual_pg19445.txt,Omnilingual,"Piper, H. Beam ",1957,Science Fiction,novella,United States,16115,English
-spa42,,sevenson_kidnapped_pg421.txt,Kidnapped,"Stevenson, Robert Louis",1886,Historical Fiction; Adventure,novel,United Kingdom,81682,English
-jjd268,,stoker_the_mystery_of_the_sea_pg42455.txt,The Mystery of the Sea,"Stoker, Bram",1902,Adventure; Code and Cipher; Scotland,Novel,United Kingdom,,English
-jjd268,,beach_the_barrierpg4082.txt,The Barrier,"Rex, Beach",1908,Western; Adventure; Yukon,novel,United States,,English
-mtp55,,,The Call of the Wild,"London, Jack",1903,Animal Fiction,novel,United States,86139,English
-nkm39,zw85,hearn_shadowings_pg34215.txt,Shadowings,"Hearn, Lafcadio",1919,Horror,Novel,United States,,English
-pse23,,life_blood_pg34318.txt,Life Blood,"Hoover, Thomas",2000,Horror; Suspense,Novel,United States,102808,English
-jet253,,,The Damned Thing,"Bierce, Ambrose",1898,Horror,novel,United States,3281,English
-mi252,pd353,hodgson_the_boats_of_the_glen_carrig_pg10542.txt,"The Boats of the ""Glen Carrig""","Hodgson, William",2003,Horror,Novel,United States,60062,English
-rsk227,alj74,each_man_kills.txt,Each Man Kills,"Glad, Victoria",1951,Horror,Novel,United States,,English
-rsk227,alj74,mummys_foot.txt,The Mummy's Foot,"Gautier, Théophile",1840,Horror,Novel,France,,French
-pse23,,the_parasite_pg355.txt,The Parasite,"Doyle, Arthur Conan",1894,Horror,Novel,United Kingdom,17822,English
-zw85,,poe_the_works_of_elgar_allan_poe_volume_2_pg2148.txt,The Works of Edgar Allan Poe — Volume 2,"Poe, Edgar Allan",1859,Gothic; Horror,Collection,United States,94942,English
-zw85,,poe_the_works_of_elgar_allan_poe_volume_3_pg2149.txt,The Works of Edgar Allan Poe — Volume 3,"Poe, Edgar Allan",1903,Gothic; Horror,Collection,United Kingdom,99533,English
-sah346,,wilde_the_importance_of_being_earnest_pg844.txt,The Importance of Being Earnest,"Wilde, Oscar",1895,Comedy,Play,United Kingdom,,English
-nkm39,,falkner_the_lost_stradivarius_pg14107.txt,The Lost Stradivarius,John Meade Falkner,1895,Horror,Novel,England,53063,English
-,,,,,,,,,,
-,,,,,,,,,,
-jvw26,,blackwood_four_weird_tales_pg16726.txt,Four Weird Tales,Algernon Blackwood,1907,Horror; Supernatural,Novel,United Kingdom,,English
-jvw26,,elliot_the_sorcery_club_pg14317.txt,The Sorcery Club,"O'Donnell, Elliot",1912,Horror; Supernatural,Novel,United Kingdom,,English
-ejc254,,lovecraft-the-shunned-house-pg31469.txt,The Shunned House,H.P. Lovecraft,1924,Horror,Novel,United States,10828,English
-ejc254,,nye-comic-history-of-english-pg11138.txt,Comic History of England,BIll Nye,1986,Comic,Novel,United States,25434,English
-bc596,xz494,Dumas_The_Man_in_the_Iron_Mask_pg496.txt,The Man in the Iron Mask,"Dumas, Alexandre",1669,Romance,Novel,United States,,English
-bc596,xz494,bulfinch_bulfinchs_mythology_pg4928.txt,Bulfinch's Mythology,"Bulfinch, Thomas",1855,Romance,Novel ,United States,,English
-mtp55,,elliot_the_sorcery_club_pg14317.txt,Murder in the Gunroom,"Piper, H. Beam",1953,Crime,Novel,United States,,English
-sy367,ms2628,,Anthem,Ayn Rand,1938,Dystopian Fiction,Novel,United States ,105080,English
-hcm58,,,The Book of Were-Wolves,"Baring-Gould, Sabine",1865,Horror,Novel,England,,English
-mas764,sm2344,dumas_the_count_of_monte_cristo_pg1184,The Count of Monte Cristo,"Dumas, Alexandre",1844,Adventure,Novel,France,375695,French
-,,,,,,,,,,
-,,,,,,,,,,
-az283,,,Clarimonde,"Gautier, Theophile",1908,Horror; Fiction,Novel,France,,French
-,,,,,,,,,,
-xz494,kmw259,,"
+",Novel,United Kingdom,112433,English,1
+mck85,vlz2,twain_adventures_of_tom_sawyer_pg74.txt,Adventures of Tom Sawyer,"Twain, Mark",1876,Adventure; Satire,Novel,United States,70570,English,3
+ag2228,ds869,dumas_the_three_musketeers_pg1257.txt,The Three Musketeers,"Dumas, Alexandre",1844,Historical Fiction; Adventure,Novel,France,197163,French,
+ag2228,ds869,hodgson_the_house_on_the_borderland_pg10002.txt,The House on the Borderland,"Hodgson, William",1908,Science Fiction,Novel,United Kingdom,50872,English,
+ds869,ag2228,poe_the_pit_and_the_pendulum_pg2148.txt,The Pit and the Pendulum,"Poe, Edgar Allan",1842,Horror Fiction,Short Story,United States,,English,1
+ds869,ag2228,poe_the_fall_of_the_house_of_usher_pg2148.txt,The Fall of the House of Usher,"Poe, Edgar Allan",1839,Horror Fiction; Gothic Fiction,Novel,United States,7060,English,1
+pd353,az258,poe_the_tell_tale_heart_pg2148.txt,The Tell-Tale Heart,"Poe, Edgar Allan",1843,Horror; Gothic Fiction,Short Story,United States,2145,English,1
+pd353,az258,dickens_a_christmas_carol_pg24022.txt,A Christmas Carol,"Dickens, Charles",1915,Fairy Tale; Victorian Literature,Novel,United Kingdom,28528,English,3
+im324,wh375,baum_the_wonderful_wizard_of_oz_pg55.txt,The Wonderful Wizard of Oz,"Baum, Lyman Frank",1900,Fantasy,Novel,United States,39463,English,3
+im324,wh375,hewlett_the_forest_lovers_pg8934.txt,The Forest Lovers,"Hewlett, Maurice",1898,Historical Fiction,Novel,United Kingdom,97617,English,3
+ye35,cc972,hobbes_leviathan_pg3207.txt,Leviathan,"Hobbes, Thomas",1651,Political,Novel,United Kingdom,189950,English,1
+ye35,cc972,hawthone_the_scarlet_letter_pg25344.txt,The Scarlet Letter,"Hawthorne, Nathaniel",1850,Romanticism; Fiction,Novel,United States,51500,English,3
+sy367,ms2628,austen_sense_and_sensibility_pg21839.txt,Sense and Sensibility,"Austen, Jane",1811,Romantic Fiction,Novel,United Kingdom,119394,English,1
+emw246,hd292,wodehouse_damsel_in_distress_pg2233.txt,A Damsel in distress,"Wodehouse, P.G.",2000,Humor; Fiction,Novel,United States,2233,English,
+emw246,hd292,rohmer_the_golden_scorpion_pg18613.txt,The Golden Scorpion,"Rohmer, Sax",2006,Fantasy; Fiction,Novel,United States,18613,English,
+sk2347,,machen_the_great_god_pan_pg389.txt,The Great God Pan,"Machen, Arthur",1894,Horror,Novel,United Kingdom,,English,
+sk2347,,fletcher_the_markenmore_mystery_pg59818.txt,The Markenmore Mystery,Fletcher Joseph,1922,Mystery; Detective,Novel,United States,77974,English,
+wpt25,kl782,butler_the_odyssey_pg1727.txt,The Odyssey,"Butler, Samuel",1897,Epic; Poetry,Epic,United Kingdom,,Greek,3
+hc667,,christie_the_murder_on_the_links_pg58866.txt,The Murder on the Links,"Christie, Agatha",1923,Mystery; Detective,Novel,United Kingdom,64170,English,1
+hc667,,christie_the_secret_adversary_pg1155.txt,The Secret Adversary,"Christie, Agatha",1922,Mystery; Detective,Novel,United Kingdom,65016,English,3
+mi252,pd353,edith_the_tale_of_terror_pg14154.txt,The Tale of Terror,"Birkhead, Edith",1921,Horror,Novel,United States,66072,English,3
+mac487,mad298,polidori_the_vampyre_pg6087.txt,The Vampyre,"Polidori, John William",1819,Horror,Short Story,United Kingdom,12692,English,3
+ms2628,sy367,swift_gullivers_travels_pg829.txt,Gulliver's Travels Into Several Remote Nations of the World,"Swift, Jonathan",1726,Fantasy Fiction,Novel,United Kingdom,97730,English,1
+ms2628,sy367,hugo_les_miserables_pg135.txt,Les Miserables,"Hugo, Victor",1887,Historical Fiction,Novel,Belgium,545925,French,3
+jsp283,,prest_varney_the_vampire_pg14833.txt,"Varney the Vampire; Or, the Feast of Blood","Prest, Thomas Preskett",1847,Horror,Novel,United Kingdom,,English,
+jsp283,,perrin_star_of_india_pg42.txt,Star of India,"Perrin, Alice",1919,Romance,Novel,United States,,English,
+mac487,mad298,stoker_the_man_pg2520.txt,The Man,"Stoker, Bram",1905,Horror,Novel,Ireland,105477,English,3
+kl782,mi252,hearn_kwaidan_pg1210.txt,Kwaidan Stories and Studies of Strange Things,"Hearn, Lafcadio",1904,Horror; Non-Fiction,Collection,Japan,33726,English,3
+kl782,mi252,ibsen_gengangere_pg8121.txt,Gengangere,"Ibsen, Henrik",2014,Family Drama; Tragedy,Play,Norway,21396,Danish,play
+rrg73,jjd268,leblanc_the_crystal_stopper_pg1563.txt,The Crystal Stopper,"LeBlanc, Maurice",1912,Mystery; Detective,Novel,France,,French,3
+rrg73,jjd268,leblanc_the_teeth_of_the_tiger_pg13058.txt,The Teeth of the Tiger,"LeBlanc, Maurice",1914,Mystery; Detective,Novel,France,,French,3
+spa42,,piper_omnilingual_pg19445.txt,Omnilingual,"Piper, H. Beam ",1957,Science Fiction,Novella,United States,16115,English,
+spa42,,sevenson_kidnapped_pg421.txt,Kidnapped,"Stevenson, Robert Louis",1886,Historical Fiction; Adventure,Novel,United Kingdom,81682,English,
+jjd268,rrg73,stoker_the_mystery_of_the_sea_pg42455.txt,The Mystery of the Sea,"Stoker, Bram",1902,Adventure; Code and Cipher; Scotland,Novel,United Kingdom,,English,1
+jjd268,rrg73,beach_the_barrier_pg4082.txt,The Barrier,"Rex, Beach",1908,Western; Adventure; Yukon,Novel,United States,,English,3
+mtp55,,london_the_call_of_the_wild_pg215.txt,The Call of the Wild,"London, Jack",1903,Animal Fiction,Novel,United States,86139,English,uncertain
+nkm39,zw85,hearn_shadowings_pg34215.txt,Shadowings,"Hearn, Lafcadio",1919,Horror,Novel,United States,,English,3
+pse23,,life_blood_pg34318.txt,Life Blood,"Hoover, Thomas",2000,Horror; Suspense,Novel,United States,102808,English,1
+jet253,,bierce_the_damned_thing_pg3281.txt,The Damned Thing,"Bierce, Ambrose",1898,Horror,Novel,United States,3281,English,uncertain
+mi252,pd353,hodgson_the_boats_of_the_glen_carrig_pg10542.txt,"The Boats of the ""Glen Carrig""","Hodgson, William",2003,Horror,Novel,United States,60062,English,3
+rsk227,alj74,each_man_kills.txt,Each Man Kills,"Glad, Victoria",1951,Horror,Novel,United States,6626,English,
+rsk227,alj74,mummys_foot.txt,The Mummy's Foot,"Gautier, Théophile",1840,Horror,Novel,France,4338,French,
+pse23,,the_parasite_pg355.txt,The Parasite,"Doyle, Arthur Conan",1894,Horror,Novel,United Kingdom,17822,English,1
+zw85,,poe_the_works_of_elgar_allan_poe_volume_2_pg2148.txt,The Works of Edgar Allan Poe — Volume 2,"Poe, Edgar Allan",1859,Gothic; Horror,Collection,United States,94942,English,uncertain
+zw85,,poe_the_works_of_elgar_allan_poe_volume_3_pg2149.txt,The Works of Edgar Allan Poe — Volume 3,"Poe, Edgar Allan",1903,Gothic; Horror,Collection,United Kingdom,99533,English,uncertain
+sah346,mck85,wilde_the_importance_of_being_earnest_pg844.txt,The Importance of Being Earnest,"Wilde, Oscar",1895,Comedy; Comic,Play,United Kingdom,20489,English,play
+nkm39,,falkner_the_lost_stradivarius_pg14107.txt,The Lost Stradivarius,"Falkner, John Meade ",1895,Horror,Novel,England,53063,English,1
+jvw26,gar224,blackwood_four_weird_tales_pg16726.txt,Four Weird Tales,"Blackwood, Algernon",1907,Horror; Supernatural,Novel,United Kingdom,,English,3
+jvw26,gar224,elliot_the_sorcery_club_pg14317.txt,The Sorcery Club,"O'Donnell, Elliot",1912,Horror; Supernatural,Novel,United Kingdom,,English,3
+ejc254,,lovecraft-the-shunned-house-pg31469.txt,The Shunned House,"Lovecraft, Howard",1924,Horror,Novel,United States,10828,English,1
+ejc254,,nye-comic-history-of-english-pg11138.txt,Comic History of England,"Nye, Bill",1986,Comic,Novel,United States,25434,English,
+bc596,xz494,dumas_the_man_in_the_iron_mask_pg496.txt,The Man in the Iron Mask,"Dumas, Alexandre",1669,Romance,Novel,United States,174089,English,3
+bc596,xz494,bulfinch_bulfinchs_mythology_pg4928.txt,Bulfinch's Mythology,"Bulfinch, Thomas",1855,Romance,Novel ,United States,327459,English,3
+mtp55,,piper_murder_in_the_gunroom_pg17866.txt,The Cosmic Computer,"Piper, H. Beam",1953,Science Fiction,Novel,United States,,English,1
+sy367,ms2628,rand_anthem_pg1250.txt,Anthem,Ayn Rand,1938,Dystopian Fiction,Novel,United States ,105080,English,1
+hcm58,,baring_gould_the_book_of_werewolves_pg5324.txt,The Book of Were-Wolves,"Baring-Gould, Sabine",1865,Horror,Novel,England,,English,1
+mas764,sm2344,dumas_the_count_of_monte_cristo_pg1184.txt,The Count of Monte Cristo,"Dumas, Alexandre",1844,Adventure,Novel,France,375695,French,3
+az283,,clarimonde.txt,Clarimonde,"Gautier, Theophile",1836,Horror; Fiction,Novel,France,,French,1
+xz494,kmw259,barrie_peter_pan_pg16.txt,"
 Peter Pan 
-",J. M. Barrie,1953,Fantasy Fiction,Novel,United Kingdom,,English
-,,,,,,,,,,
-,,,,,,,,,,
-jhc287,,sinclair_samuel_the_seeker_pg5961,Samuel the Seeker,Upton Sinclair,1909,Political fiction,Novel,United States,63091,English
+",J. M. Barrie,1953,Fantasy Fiction,Novel,United Kingdom,47402,English,3
+lm638,rk493,stowe_uncle_toms_cabin.txt,Uncle Tom's Cabin,"Stowe, Harriet Beecher ",1852,Slavery Fiction; Political Fiction,Novel,United States,182122,English,3
+jhc287,akn35,sinclair_samuel_the_seeker_pg5961.txt,Samuel the Seeker,Upton Sinclair,1909,Political fiction,Novel,United States,63091,English,3
+jc2747,,james_joyce_ulysses.txt,Ulysses,"Joyce, James",1922,Modernism,Novel,Ireland,265222,English,3
+lgl44,,the_well.txt,The Well,W.W. Jacobs,1902,Horror,Short Story,United Kingdom,,English,3
+lm638,rk493,carroll_alices_adventures_in_wonderland.txt,Alice's Adventures in Wonderland,"Carroll, Lewis",1865,Fantasy Fiction; Children's Stories,Novel,United Kingdom,26403,English,3
+hl973,,romero_the_ghost_ship.txt,The Ghost Ship,"Middleton, Richard",1912,Horror,Short Story,United Kingdom,52155,English,1
+hl973,,wilde_an_ideal_husband.txt,An Ideal Husband ,"Wilde, Oscar",1895,Comedy,Play,Ireland,30835,English,
+nb378,,the_shunned_house.txt,The Shunned House,H. P. Lovecraft,1824,Horror,Novel,United States,,English,3
+szk4,,day_and_night_storiespg45964.txt,Day and Night Stories,Algernon Blackwood,1917,Horror,Novel,United States,76050,English,3
+cc972,,farjeon_the_house_of_the_white_shadows_pg42973.txt,The House of the White Shadows,"Farjeon, B. L.",1884,Fiction,Novel,United Kingdom,130960,English,3
+cc972,,fang_the_used_people_lot_pg60545.txt,The Used People Lot,"Fang, Irving",1958,Science Fiction,Short Story,United States,2110,English,1
+lgl44,,la_grande_breteche.txt,La Grande Breteche,Honoré de Balzac,1831,Horror,Short Story,France,,French,3
+szk4,,round_the_fire_stories.txt,Round the Fire Stories,Arthur Conan Doyle,1908,Horror,Short Story,United Kingdom,107098,English,1
+nb378,,the_trial_7849,The Trial ,Franz Kafka,1914,Horror,Novel,Germany,,German,
